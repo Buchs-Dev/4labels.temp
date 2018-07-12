@@ -33,6 +33,17 @@
 		"oAP": "\/css\/styles.css.map",
 		"oF": 0
 		},
+	"\/images\/4labels-logo.png": {
+		"ft": 32768,
+		"iS": 3012,
+		"oA": 0,
+		"oAP": "\/images\/4labels-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
